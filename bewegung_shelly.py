@@ -4,7 +4,7 @@ import time
 
 # CONFIG
 PIR_PIN = 18  # OUT-Pin vom Sensor
-SHELLY_IP = "10.0.0.30"  # ← hier deine feste IP vom Shelly Plug S
+SHELLY_IP = "IP"  # ← hier deine feste IP vom Shelly Plug S
 
 # GPIO SETUP
 GPIO.setmode(GPIO.BCM)
