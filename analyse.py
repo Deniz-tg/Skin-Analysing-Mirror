@@ -11,8 +11,8 @@ IMG_PATH = "/home/magicmirror/face.jpg"
 OUTPUT_PATH = "/home/magicmirror/face_result.txt"
 
 # Face++ API
-API_KEY = "0uxaZssH3m39x_zvPm2JvxE8ii_4LAyC"
-API_SECRET = "B8V1SCaYRCNVMpbbkjvg580sHujJy-T7"
+API_KEY = "KEY"
+API_SECRET = "SECRET"
 API_URL = "https://api-us.faceplusplus.com/facepp/v3/detect"
 
 # GPIO SETUP
