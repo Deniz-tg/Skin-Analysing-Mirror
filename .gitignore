@@ -84,3 +84,7 @@ Temporary Items
 
 # Ignore positions file (#3518)
 js/positions.js
+.env
+*.json
+__pycache__/
+.DS_Store
